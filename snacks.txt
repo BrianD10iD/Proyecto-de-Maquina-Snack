@@ -1,0 +1,7 @@
+0, Papas, 70.0
+1, Sanwich, 40.0
+2, Refresco, 40.0
+3, Chocolate, 40.0
+4, Nachos, 45.5
+5, Sublime, 2.5
+6, Galleta, 4.0
